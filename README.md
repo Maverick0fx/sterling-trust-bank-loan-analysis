@@ -55,11 +55,22 @@ I recreated the analysis in Tableau, building interactive dashboards to explore 
 - **Interest Rate:** Loans with interest rates of 20% and above recorded a 67% repayment rate.
 - **High-Risk Segments:** Several unemployed borrower segments combining specific credit score and DTI bands recorded 100% non-repayment.
 
-## 5. Recommendations
+## 5. Recommendations for Sterling Trust Bank
 
-1. **Improve Loan Approval Decisions:** Assess applicants' repayment capacity, particularly unemployed borrowers with other risk indicators.
-2. **Strengthen Credit Assessment:** Consider credit scores, DTI ratios, employment status, and delinquency history.
-3. **Improve Risk Monitoring:** Monitor higher-risk customer segments and identify early signs of repayment difficulties.
-4. **Use Risk-Based Interest Rates:** Consider borrowers' credit profiles and repayment capacity when setting interest rates.
-5. **Manage High-Risk Segments:** Pay closer attention to younger, unemployed, and student borrowers when assessing repayment capacity.
-6. **Set Appropriate Loan Limits:** Consider income, existing debts, employment status, and repayment capacity when determining loan amounts.
+### 1. Improve Loan Approval Decisions
+The bank should carefully assess unemployed applicants before approving loans. For example, unemployed borrowers aged 21 had only 5 out of 41 loans paid back, giving a repayment rate of 12%. Similar low repayment rates were observed among unemployed borrowers aged 23 and 24. The bank should review applicants' repayment capacity before approving loans.
+
+### 2. Strengthen Credit Assessment
+The bank should consider credit scores, debt-to-income (DTI) ratios, employment status, and delinquency history when assessing applicants. Customers with credit scores above 700 had an 89% repayment rate, while those with scores below 500 had a 65% repayment rate. Customers with DTI ratios of 40% and above also showed higher repayment risk.
+
+### 3. Improve Risk Monitoring
+The bank should closely monitor high-risk customer groups, especially unemployed borrowers and customers with high DTI ratios. It should identify early signs of repayment difficulties and contact customers who miss payments to reduce further losses.
+
+### 4. Use Risk-Based Interest Rates
+The bank should consider borrowers' credit scores, DTI ratios, and repayment capacity when setting interest rates. Loans with interest rates of 20% and above had a repayment rate of 67%, although this group contained only 15 loans. The bank should consider these repayment patterns when reviewing its interest rate approach.
+
+### 5. Manage High-Risk Customer Segments
+The bank should pay closer attention to unemployed borrowers and student borrowers, particularly younger applicants. For example, unemployed borrowers aged 22 had a repayment rate of 30%, while students aged 22 had a repayment rate of 35%. In comparison, self-employed borrowers aged 24 had a repayment rate of 93%, and employed borrowers of the same age had a repayment rate of 87%. These differences highlight the importance of considering employment status and repayment capacity during risk assessment.
+
+### 6. Set Appropriate Loan Limits
+The bank should consider applicants' income, existing debts, employment status, and ability to repay when determining loan amounts. Although loans above 30k had an 81% repayment rate compared with 80% for loans below 5k, the difference was small. Therefore, loan limits should be based on individual repayment capacity rather than loan size alone.
