@@ -33,6 +33,14 @@ I used Power Query for data preparation and DAX to create measures and visualise
 ### Key Findings and Recommendations
 ![Key Findings and Recommendations](Power-BI/Screenshots/04-Key-Findings-and-Recommendations.png)
 
+### Interactive Tooltips
+
+I created custom tooltips for repayment and non-repayment metrics, allowing users to hover over dashboard visuals and view additional details, including total loans, paid-back loans, non-paid loans, and repayment or non-repayment rates.
+
+![Repayment Tooltip](Power-BI/Screenshots/05-Repayment-Tooltip.png)
+
+![Non-Repayment Tooltip](Power-BI/Screenshots/06-Non-Repayment-Tooltip.png)
+
 ## 3. Tableau Dashboard
 
 I recreated the analysis in Tableau, building interactive dashboards to explore loan portfolio performance and credit risk.
